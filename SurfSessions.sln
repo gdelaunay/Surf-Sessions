@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfSessions", "SurfSessions\SurfSessions.csproj", "{EA264934-A8E7-487F-A51C-B99A2F75A512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA264934-A8E7-487F-A51C-B99A2F75A512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA264934-A8E7-487F-A51C-B99A2F75A512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA264934-A8E7-487F-A51C-B99A2F75A512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA264934-A8E7-487F-A51C-B99A2F75A512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
